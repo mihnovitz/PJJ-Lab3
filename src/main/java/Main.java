@@ -44,6 +44,7 @@ public class Main {
         ShapeDescriber describer = new ShapeDescriber();
         ShapeRenderer renderer = new ShapeRenderer();
 
+
         // Tworzenie obiektów
         Rectangle rect1 = new Rectangle(3.0, 4.0, new Color(255, 0, 0, 255)); // Czerwony prostokąt
         Triangle tri1 = new Triangle(5.0, 12.0, 13.0, new Color(0, 255, 0, 255)); // Zielony trójkąt
