@@ -50,6 +50,7 @@ public class Main {
         Triangle tri1 = new Triangle(5.0, 12.0, 13.0, new Color(0, 255, 0, 255)); // Zielony trójkąt
         Rectangle rect2 = new Rectangle(10.0, 20.0, new Color(0, 0, 255, 128)); // Niebieski prostokąt
 
+
         // Lista figur
         List<Shape> shapes = new ArrayList<>();
         shapes.add(rect1);
